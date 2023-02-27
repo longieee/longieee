@@ -10,7 +10,7 @@
   - Convex Optimization
   - Kendo
   - Violin
-- 💞️ I’m looking to collaborate on something fun
+- I’m looking to collaborate on something fun
 - 📫 How to reach me 
   - long.nguyen-duy@outlook.com
   - https://www.facebook.com/longieee/
